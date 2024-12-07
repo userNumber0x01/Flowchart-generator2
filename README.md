@@ -1,3 +1,4 @@
+> this copied and edited rep
 # Flowchart-Generator
 Automatically creates Flowcharts from Pseudocode!
 <img src="flowchart.png" width="629" height="500">
@@ -134,6 +135,6 @@ python Converter.py
 
 This image contains the created flowchart which can be shared, printed, etc. Its size varies exactly on the size of the flowchart created, so it may even hit a resolution of 10k pixels! However if the generated flowchart is too big, then the image will be unopenable due to being too large. The user should be careful with flowchart sizes.
 
-## Support
+## Support author
 
 If you are having issues, please let me know. You can contact me at mugi.ganesan@gmail.com
