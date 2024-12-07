@@ -1,0 +1,1 @@
+python Converter.py --code="code.txt" --size=30 --output="result.png"
